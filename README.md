@@ -1,2 +1,3 @@
 # Smart-Contracts
-Sample smart contracts
+Learning Solidity through creating Smart Contract 
+by topic wise.
